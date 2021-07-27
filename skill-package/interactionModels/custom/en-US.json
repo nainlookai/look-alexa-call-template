@@ -90,6 +90,11 @@
             },
             {
               "name": {
+                "value": "Menu"
+              }
+            },
+            {
+              "name": {
                 "value": "Accessories"
               }
             }
